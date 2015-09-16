@@ -7,3 +7,5 @@ An example of how to use the BIM Toolkit API methods from a Microsoft Excel 2010
 
 ### Src folder
 The src folder contains the modules and classes within the spreadsheet. 
+
+This sample uses [VBA-Web](https://github.com/VBA-tools/VBA-Web "VBA-Web") to help calling the BIM Toolkit API.
